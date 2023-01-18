@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": null,
+      "id": 8
+    },
+    {
+      "name": "Cutie",
+      "image": "https://www.petland-dalton.com/wp-content/uploads/2021/11/Saint-Bernard-300x300.png",
+      "price": "100",
+      "id": 9
     }
   ]
 }
